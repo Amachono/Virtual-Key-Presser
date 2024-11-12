@@ -1,7 +1,7 @@
 # Execute
 The code that you should to execute:
 ```lua
-loadstring("game:HttpGet("https://raw.githubusercontent.com/Amachono/Virtual-Key-Presser/refs/heads/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Amachono/Virtual-Key-Presser/refs/heads/main/main.lua"))()
 ```
 
 Don't pay attention to the license, you can read it if you are going to deobfuscate the code or contact me
